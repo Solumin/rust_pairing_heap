@@ -1,0 +1,6 @@
+[package]
+name = "rust_pairing_heap"
+version = "0.1.0"
+authors = ["Teddy Sudol <Solumin@users.noreply.github.com>"]
+
+[dependencies]
