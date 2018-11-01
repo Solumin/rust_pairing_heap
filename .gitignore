@@ -1,3 +1,6 @@
 /target
+**/*.rustfmt
 **/*.rs.bk
 Cargo.lock
+
+.*.sw[a-z]
